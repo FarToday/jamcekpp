@@ -15,7 +15,7 @@ var menit = a.getMinutes();
     }
   
   if (menit<10){
-    jam = "0"+jam;}
+    menit = "0"+menit;}
 
 document.getElementById("jam").innerHTML = jam;
 document.getElementById("menit").innerHTML = menit;
