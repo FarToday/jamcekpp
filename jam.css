@@ -42,7 +42,7 @@ body{
 .div1{
     display:block;
     padding-top:50%;
-    padding:auto;
+    padding-bottom:50%;
     margin:auto;
     justify-content:center;
     align-items: center;
