@@ -40,7 +40,9 @@ body{
 }
 
 .div1{
-    display:flex;
+    display:block;
+    padding-top:50%;
+    margin:auto;
     justify-content:center;
     align-items: center;
     background-color: rgb(8, 6, 6);
